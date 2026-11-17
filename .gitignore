@@ -60,10 +60,6 @@ Thumbs.db
 *_pycache_
 
 
-# migrations
-
-*migrations
-
 *db.sqlite3
 
 # media
